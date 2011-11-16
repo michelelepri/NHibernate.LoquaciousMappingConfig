@@ -2,7 +2,7 @@
 {
    using System.Configuration;
 
-   public class FluentNHibernateMappingSection : ConfigurationSection
+   public class LoquaciousNHibernateMappingSection : ConfigurationSection
    {
       [ConfigurationProperty("assemblies")]
       public AssemblyCollection Assemblies
