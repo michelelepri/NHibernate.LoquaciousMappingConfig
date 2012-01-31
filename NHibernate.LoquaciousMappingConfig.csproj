@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Config\AssemblyCollection.cs" />
     <Compile Include="Config\AssemblyElement.cs" />
+    <Compile Include="Config\LoquaciousNHibernateMappingHelper.cs" />
     <Compile Include="Config\LoquaciousNHibernateMappingSection.cs" />
     <Compile Include="ModelMapperExtend.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
